@@ -169,7 +169,7 @@ Service layer converting DTOs and invoking logic for serialization.
 
 | Tool  | Version   |
 | ----- | --------- |
-| Java  | 11+       |
+| Java  | 1.8+       |
 | Maven | 3.6+      |
 | Git   | Installed |
 
