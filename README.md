@@ -240,5 +240,8 @@ curl --location 'http://localhost:8080/secure/api/secure/decode' \
 
 ## 🧑‍💻 Author
 
-**Sidhant**
-*Secure data processing made simple.*
+**Sidhant Gupta**
+
+Email: [guptasidhant1997@gmail.com](mailto:guptasidhant1997@gmail.com)
+
+LinkedIn: [https://www.linkedin.com/in/gupta-sidhant/](https://www.linkedin.com/in/gupta-sidhant/)
